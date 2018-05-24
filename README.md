@@ -1,7 +1,7 @@
 # GlidePalByKotlin
 A util for using Glide easily, made it by kotlin
 
-===
+
 USE IT !
 ===
 

@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
                 .error(null)
 //        Glide.with(this).load("https://avatar.csdn.net/A/A/8/1_maskedfang.jpg?1527152743").apply(requestedOrientation).into(iv!!)
 
+        
        /* GlidepalUtil.getInstance().setOptions(R.drawable.ic_launcher_foreground,R.drawable.ic_launcher_background,false).
                 glideLoad(this,"https://avatar.csdn.net/A/A/8/1_maskedfang.jpg?1527152743",iv!!)*/
     }

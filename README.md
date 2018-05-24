@@ -1,8 +1,9 @@
 # GlidePalByKotlin
 A util for using Glide easily, made it by kotlin
 
-===USE IT !===
-
+===
+USE IT !
+===
 
 ```Add it in your root build.gradle at the end of repositories:
 allprojects {

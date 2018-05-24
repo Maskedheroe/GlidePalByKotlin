@@ -11,9 +11,9 @@ allprojects {
 		}
 	}
   
-  
+ 
 THEN :
  Add the dependency
  dependencies {
 	        implementation 'com.github.Maskedheroe:GlidePalByKotlin:v3.0'
-	}
+}

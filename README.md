@@ -21,3 +21,22 @@ THEN :
 	       implementation 'com.github.Maskedheroe:GlidePalByKotlin:v3.0.2'
 }
 ```
+You can easy load
+===
+
+```
+   GlidepalUtil.getInstance().simpleLoad(context,"url",imageView)
+   
+   GlidepalUtil.getInstance().simpleLoad(context,R.drawable.source,imageView)
+```
+
+You can set options
+===
+
+```
+    GlidepalUtil.getInstance()
+    .setOptions()
+    .glideLoad()
+
+  
+```

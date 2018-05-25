@@ -1,6 +1,7 @@
 # GlidePalByKotlin
 A util for using Glide easily, made it by kotlin
 
+[![](https://jitpack.io/v/Maskedheroe/GlidePalByKotlin.svg)](https://jitpack.io/#Maskedheroe/GlidePalByKotlin)
 
 USE IT !
 ===
@@ -17,6 +18,6 @@ allprojects {
 THEN :
  Add the dependency
  dependencies {
-	        implementation 'com.github.Maskedheroe:GlidePalByKotlin:v3.0'
+	       implementation 'com.github.Maskedheroe:GlidePalByKotlin:v3.0.2'
 }
 ```

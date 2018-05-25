@@ -18,7 +18,7 @@ allprojects {
 THEN :
  Add the dependency
  dependencies {
-	       implementation 'com.github.Maskedheroe:GlidePalByKotlin:v3.0.2'
+	       implementation 'com.github.Maskedheroe:GlidePalByKotlin:v3.0.3'
 }
 ```
 You can easy load

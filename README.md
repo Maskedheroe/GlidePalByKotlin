@@ -1,5 +1,5 @@
 # GlidePalByKotlin
-A util for using Glide easily, made it by kotlin
+An util for using Glide easily, made it by kotlin
 
 [![](https://jitpack.io/v/Maskedheroe/GlidePalByKotlin.svg)](https://jitpack.io/#Maskedheroe/GlidePalByKotlin)
 
